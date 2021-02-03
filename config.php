@@ -3,7 +3,7 @@
 use Illuminate\Support\Str;
 
 return [
-    'baseUrl' => 'http://localhost',
+    'baseUrl' => 'http://localhost:8000',
     'production' => false,
     'siteName' => 'Ka-Ching',
     'siteDescription' => 'Personal Finance Gadgets for All',
